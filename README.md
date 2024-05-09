@@ -1,5 +1,8 @@
 Stopwatch  Application
-This repository contains a simple stopwatch web application implemented using HTML, CSS, and JavaScript. The application allows you to start, stop, and reset a stopwatch timer.
+
+
+This repository contains a simple stopwatch web application implemented using HTML, CSS, and JavaScript.
+The application allows you to start, stop, and reset a stopwatch timer.
 
 Features
 Start Stopwatch: Begin timing when the start button is clicked.
@@ -23,6 +26,8 @@ Usage
 Start the stopwatch: Click the "Start" button to begin timing.
 Stop the stopwatch: Click the "Stop" button to pause the timer.
 Reset the stopwatch: Click the "Reset" button to reset the timer to zero.
+
+
 File Structure
 
 index.html: The main HTML file that contains the structure of the application.
