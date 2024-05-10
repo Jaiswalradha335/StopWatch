@@ -33,8 +33,6 @@ File Structure
 index.html: The main HTML file that contains the structure of the application.
 style.css: CSS file for styling the application.
 
-script.js: JavaScript file containing the logic for the stopwatch functionality.
-Contribution.
 
 This project is open for contributions. Feel free to raise any issues or pull requests to improve the code and functionality.
 
