@@ -12,6 +12,8 @@ Technologies Used
 HTML: For the structure of the web application.
 CSS: For styling the web application.
 JavaScript: For implementing the functionality of the stopwatch.
+
+
 Getting Started
 
 
@@ -23,6 +25,8 @@ git clone [https://github.com/Jaiswalradha335/StopWatch]
 open index.html
 
 Usage
+
+
 Start the stopwatch: Click the "Start" button to begin timing.
 Stop the stopwatch: Click the "Stop" button to pause the timer.
 Reset the stopwatch: Click the "Reset" button to reset the timer to zero.
@@ -37,4 +41,5 @@ style.css: CSS file for styling the application.
 This project is open for contributions. Feel free to raise any issues or pull requests to improve the code and functionality.
 
 License
+
 This project is licensed under the MIT License.
