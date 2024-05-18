@@ -5,10 +5,16 @@ This repository contains a simple stopwatch web application implemented using HT
 The application allows you to start, stop, and reset a stopwatch timer.
 
 Features
+
+
 Start Stopwatch: Begin timing when the start button is clicked.
 Stop Stopwatch: Pause the timing when the stop button is clicked.
 Reset Stopwatch: Reset the timer to zero when the reset button is clicked.
+
+
 Technologies Used
+
+
 HTML: For the structure of the web application.
 CSS: For styling the web application.
 JavaScript: For implementing the functionality of the stopwatch.
@@ -19,6 +25,8 @@ Getting Started
 
 To run the application:
 1.Clone the repository:
+
+
 git clone [https://github.com/Jaiswalradha335/StopWatch]
 
 2.Open the HTML file in your web browser:
