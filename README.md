@@ -1,4 +1,4 @@
-#Stopwatch  Application
+Stopwatch  Application
 
 
 This repository contains a simple stopwatch web application implemented using HTML, CSS, and JavaScript.
